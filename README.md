@@ -1,2 +1,2 @@
 # EFFICIENT-SIGN-LANGUAGE-RECOGNITION-FOR-IMPAIRED-PEOPLE-USING-CNN-AND-LSTM-ALGORITHM
-This project develops a sign language recognition system using CNN and LSTM. CNN detects hand gestures, while LSTM understands their movement sequence. The system converts sign language into text in real time, helping hearing-impaired people communicate easily with others and improving their independence in daily life.
+This project develops a sign language recognition system using CNN and LSTM. CNN detects hand gestures, while LSTM understands their movement sequence. The system converts sign language into text and speech in real time, helping hearing-impaired people communicate easily with others and improving their independence in daily life.
